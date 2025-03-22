@@ -1,3 +1,4 @@
 # Ignore Folders
-/model/_pycache_/
-/utils/_pycache_/
+/model/__pycache__/
+/utils/__pycache__/
+output_examples.png

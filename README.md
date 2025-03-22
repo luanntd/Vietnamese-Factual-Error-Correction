@@ -61,18 +61,13 @@ All of these are sourced from `main.py`.
 ## **Human Evaluation**
 We split annotation process into **three round**, after each round we calculate **Cohen’s Kappa** and revised the guideline if necessary. We maintain frequent communication with each other, including answering any possible questions and resolving mismatch issues, to facilitate the evaluation process.
 
-## Collaborators
+## **Contributors**
 
-<!-- <a href="https://github.com/luanntd">
-  <img src="https://github.com/luanntd.png?size=60" width="60" style="border-radius: 50%;" />
+<a href="https://github.com/luanntd">
+  <img src="https://github.com/luanntd.png?size=50" width="50" style="border-radius: 50%;" />
 </a>
 <a href="https://github.com/Khoa-Nguyen-Truong">
-  <img src="https://github.com/Khoa-Nguyen-Truong.png?size=60" width="60" style="border-radius: 50%;" />
-</a> -->
-
-<a href="https://github.com/luanntd/Vietnamese-Factual-Error-Correction/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=luanntd/Vietnamese-Factual-Error-Correction" alt="contrib.rocks image" />
+  <img src="https://github.com/Khoa-Nguyen-Truong.png?size=50" width="50" style="border-radius: 50%;" />
 </a>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

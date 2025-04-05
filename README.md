@@ -1,6 +1,6 @@
 # **Vietnamese-Factual-Error-Correction**
 **Factual Error Correction (FEC)** is a critical task in natural language processing, aimed at detecting and correcting factual inconsistencies in textual content. Although significant progress has been made in **English**, **Vietnamese FEC** remains under-explored due to the lack of annotated datasets and tailored approaches. This project presents a novel approach to **Vietnamese FEC** based on the baseline paper [**Zero-shot Faithful Factual Error Correction**](https://aclanthology.org/2023.acl-long.311/). This implementation is one of the first steps for this task in **Vietnamese**. Through extensive experiments, we evaluate our approach with human judgments, analyze its strengths and weaknesses, and discuss its applicability in real-world scenarios. Our findings contribute to the development of robust FEC systems for low-resource languages like **Vietnamese**.
-![output_example](./output_example.png?size=50)
+![output_example](./assets/output_example.png?size=50)
 
 ### **Modules**
 This method follows a zero-shot approach, requiring no training in this implementation. However, its multi-component architecture results in substantial inference time and high memory consumption. It is important to consider the associated costs when running the system. The tools and LLMs used in this implementation are listed below:

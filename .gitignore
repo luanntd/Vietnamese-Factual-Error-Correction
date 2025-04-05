@@ -1,5 +1,7 @@
 # Ignore Folders
 /model/__pycache__/
+/model/task/__pycache__/
 /utils/__pycache__/
 venv/
 __pycache__/
+vi_zero_fec.ipynb
